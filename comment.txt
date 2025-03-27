@@ -1,0 +1,5 @@
+Be creative, add all your dreams and desires here, works best with max 15 lines!
+
+-> edit this in comment.txt
+-> support for JS, CSS & HTML
+-> support for other files & a better line optimization coming soon <3
